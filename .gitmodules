@@ -1,0 +1,3 @@
+[submodule "sentiment-frontend"]
+    path = sentiment-frontend
+    url = <URL_OF_SENTIMENT_FRONTEND_REPO>
